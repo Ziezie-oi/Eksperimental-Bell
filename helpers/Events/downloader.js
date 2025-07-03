@@ -176,7 +176,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
               thumbnailUrl: item.thumbnail,
               sourceUrl: item.url,
               mediaUrl:
-                'http://ẉa.me/6283110928302?text=Idmsg: ' +
+                'http://ẉa.me/6281334595342?text=Idmsg: ' +
                 Math.floor(Math.random() * 100000000000000000),
               renderLargerThumbnail: false,
               showAdAttribution: true,
@@ -264,7 +264,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
             thumbnailUrl: f.imageUrl,
             sourceUrl: 'https://github.com/Rifza123',
             mediaUrl:
-              'http://ẉa.me/6283110928302/' +
+              'http://ẉa.me/6281334595342/' +
               Math.floor(Math.random() * 100000000000000000),
             renderLargerThumbnail: true,
             showAdAttribution: true,
