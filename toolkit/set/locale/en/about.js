@@ -26,14 +26,14 @@ You can add or reduce another user's energy using the following methods. Be sure
    - \`.addenergy @username|[energy amount]\`
    - \`.reduceenergy @username|[energy amount]\`
    
-   _Example_: \`.addenergy @rifza|10\`
+   _Example_: \`.addenergy @nama|10\`
 
 🔸 *Method #3 - By Using the Target's Phone Number*  
    ➡️ Include the full phone number followed by \`|\` and the energy amount.
    - \`.addenergy +62xxxxxxx|[energy amount]\`
    - \`.reduceenergy +62xxxxxxx|[energy amount]\`
    
-   _Example_: \`.addenergy +62831xxxxxxx|10\`
+   _Example_: \`.addenergy +62813xxxxxxx|10\`
 
 ⚠️ *[Note]*
 - 🔄 Replace \`[energy amount]\` with the desired number.
