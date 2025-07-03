@@ -19,9 +19,9 @@
   "author": "@rifza.p.p",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rifza123/Experimental-Bell/issues"
+    "url": "https://github.com/Ziezie-oi/Experimental-Bell/issues"
   },
-  "homepage": "https://github.com/Rifza123/Experimental-Bell#readme",
+  "homepage": "https://github.com/Ziezie-oi/Experimental-Bell#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.17",
     "axios": "^1.7.8",
