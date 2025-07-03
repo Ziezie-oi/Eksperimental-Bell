@@ -26,14 +26,14 @@ Anda dapat menambah atau mengurangi energi pengguna lain dengan beberapa metode 
    - \`.addenergy @username|[jumlah energi]\`
    - \`.reduceenergy @username|[jumlah energi]\`
    
-   _Contoh_: \`.addenergy @rifza|10\`
+   _Contoh_: \`.addenergy @nama|10\`
 
 🔸 *Cara #3 - Dengan Nomor Target*  
    ➡️ Sertakan nomor lengkap pengguna diikuti \`|\` dan jumlah energi.
    - \`.addenergy +62xxxxxxx|[jumlah energi]\`
    - \`.reduceenergy +62xxxxxxx|[jumlah energi]\`
    
-   _Contoh_: \`.addenergy +62831xxxxxxx|10\`
+   _Contoh_: \`.addenergy +62813xxxxxxx|10\`
 
 ⚠️ *[Catatan]*
 - 🔄 Gantilah \`[jumlah energi]\` dengan angka sesuai kebutuhan.
@@ -131,13 +131,13 @@ infos.tfenergy = `
    ➡️ Gunakan \`@username\` diikuti \`|\` dan jumlah energi.
    - \`.transfer @username|[jumlah energi]\`
    
-   _Contoh_: \`.transfer @rifza|10\`
+   _Contoh_: \`.transfer @nama|10\`
 
 🔸 *Cara #3 - Dengan Nomor Target*  
    ➡️ Sertakan nomor lengkap pengguna diikuti \`|\` dan jumlah energi.
    - \`.transfer +62xxxxxxx|[jumlah energi]\`
    
-   _Contoh_: \`.transfer +62831xxxxxxx|10\`
+   _Contoh_: \`.transfer +62813xxxxxxx|10\`
 
 ⚠️ *[Catatan]*
 - ℹ️Mentransfer energy akan mengurangi energy anda, dan menambahkannya ke nomor target
