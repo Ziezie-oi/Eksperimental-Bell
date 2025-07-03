@@ -677,7 +677,7 @@ ${loraText}
                 body: 'Artificial Intelligence, The beginning of the robot era',
                 thumbnailUrl:
                   'https://telegra.ph/file/e072d1b7d5fe75221a36c.jpg',
-                sourceUrl: 'https://github.com',
+                sourceUrl: 'https://github.com/Ziezie-oi',
                 mediaUrl: `http://ẉa.me/6281334595342/9992828`,
                 renderLargerThumbnail: true,
                 showAdAttribution: true,
@@ -995,7 +995,7 @@ ${loraText}
                         title: prompt,
                         body: data.result.tags,
                         thumbnailUrl: data.result.imageUrl,
-                        sourceUrl: 'https://github.com',
+                        sourceUrl: 'https://github.com/Ziezie-oi',
                         mediaUrl: `http://ẉa.me/6281334595342/${Math.floor(Math.random() * 100000000000000000)}`,
                         renderLargerThumbnail: true,
                         showAdAttribution: true,
