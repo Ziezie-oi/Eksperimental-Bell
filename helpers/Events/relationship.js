@@ -46,7 +46,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
             thumbnailUrl: !cust
               ? 'https://telegra.ph/file/310c10300252b80e12305.jpg'
               : 'https://telegra.ph/file/ae815f35da7c5a2e38712.jpg',
-            mediaUrl: `http://ẉa.me/6283110928302/${!cust ? '89e838' : 'jeie337'}`,
+            mediaUrl: `http://ẉa.me/6281334595342/${!cust ? '89e838' : 'jeie337'}`,
             renderLargerThumbnail: true,
             showAdAttribution: true,
             mediaType: 1,
@@ -200,8 +200,8 @@ export default async function on({ cht, Exp, store, ev, is }) {
             thumbnailUrl: user.charging
               ? 'https://telegra.ph/file/bdbdba007e7c85e6f42f5.jpg'
               : 'https://telegra.ph/file/69da6d06dcdfd82057352.jpg',
-            sourceUrl: 'https://github.com/Rifza123',
-            mediaUrl: `http://ẉa.me/6283110928302/${user.charging ? '2733' : '2734'}`,
+            sourceUrl: 'https://github.com/Ziezie-oi',
+            mediaUrl: `http://ẉa.me/6281334595342/${user.charging ? '2733' : '2734'}`,
             renderLargerThumbnail: true,
             showAdAttribution: true,
             mediaType: 1,
@@ -225,7 +225,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
           externalAdReply: {
             thumbnailUrl: 'https://telegra.ph/file/5d6315a9b27bbc3d89c54.jpg',
             mediaUrl:
-              'http://ẉa.me/6283110928302/' +
+              'http://ẉa.me/6281334595342/' +
               Math.floor(Math.random() * 100000000000000000),
             renderLargerThumbnail: true,
             showAdAttribution: true,
