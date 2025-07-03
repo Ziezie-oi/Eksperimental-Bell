@@ -123,14 +123,14 @@ Examples:
 - .delprem
 
  - *#2* => _By tagging the target_
-- .kurangprem @rifza|1d
-- .addprem @rifza|1d
-- .delprem @rifza|1d
+- .kurangprem @nama|1d
+- .addprem @nama|1d
+- .delprem @nama|1d
  
  - *#3* => _By entering the target's number_
-- .addprem +62 831-xxxx-xxxx|1d
-- .kurangprem +62 831-xxxx-xxxx|1d
-- .delprem +62 831-xxxx-xxxx|1d
+- .addprem +62 813-xxxx-xxxx|1d
+- .kurangprem +62 813-xxxx-xxxx|1d
+- .delprem +62 813-xxxx-xxxx|1d
 
 *Supported Time Units:*
 - s, second, seconds
@@ -140,19 +140,19 @@ Examples:
 - w, week, weeks
 
 *Examples of using different time units:*
-- .addprem @rifza|30 seconds 
+- .addprem @nama|30 seconds 
     ➡️ Adds 30 seconds.
-- .addprem @rifza|1 minute 
+- .addprem @nama|1 minute 
     ➡️ Adds 1 minute.
-- .addprem @rifza|1 hour 15 seconds 
+- .addprem @nama|1 hour 15 seconds 
     ➡️ Adds 1 hour 15 seconds.
-- .addprem @rifza|2 days 4 hours 
+- .addprem @nama|2 days 4 hours 
     ➡️ Adds 2 days 4 hours.
-- .addprem @rifza|1 week 
+- .addprem @nama|1 week 
     ➡️ Adds 1 week.
-- .addprem @rifza|1w 2d 3h 
+- .addprem @nama|1w 2d 3h 
     ➡️ Adds 1 week 2 days 3 hours.
-- .addprem @rifza|1d 2h 30m 15s 
+- .addprem @nama|1d 2h 30m 15s 
     ➡️ Adds 1 day 2 hours 30 minutes 15 seconds.
 
 \`Please read this guide carefully to avoid needing further assistance from the admin. Thank you.\``;
@@ -232,12 +232,12 @@ Examples:
 - .unbanned
 
  - *#2* => _By tagging the target_
-- .banned @rifza|1d
-- .unbanned @rifza
+- .banned @nama|1d
+- .unbanned @nama
 
  - *#3* => _By entering the target's number_
-- .banned +62 831-xxxx-xxxx|1d
-- .unbanned +62 831-xxxx-xxxx
+- .banned +62 813-xxxx-xxxx|1d
+- .unbanned +62 813-xxxx-xxxx
 
 *Supported Time Units:*
 - s, second, seconds
@@ -247,19 +247,19 @@ Examples:
 - w, week, weeks
 
 *Other examples using different time units:*
-- .banned @rifza|30 seconds 
+- .banned @nama|30 seconds 
     ➡️ Bans for 30 seconds.
-- .banned @rifza|1 minute 
+- .banned @nama|1 minute 
     ➡️ Bans for 1 minute.
-- .banned @rifza|1 hour 15 seconds 
+- .banned @nama|1 hour 15 seconds 
     ➡️ Bans for 1 hour 15 seconds.
-- .banned @rifza|2 days 4 hours 
+- .banned @nama|2 days 4 hours 
     ➡️ Bans for 2 days 4 hours.
-- .banned @rifza|1 week 
+- .banned @nama|1 week 
     ➡️ Bans for 1 week.
-- .banned @rifza|1w 2d 3h 
+- .banned @nama|1w 2d 3h 
     ➡️ Bans for 1 week 2 days 3 hours.
-- .banned @rifza|1d 2h 30m 15s 
+- .banned @nama|1d 2h 30m 15s 
     ➡️ Bans for 1 day 2 hours 30 minutes 15 seconds.
 
 \`Please read this guide carefully to avoid needing further assistance from the admin. Thank you.\`
@@ -276,10 +276,10 @@ Examples:
 - .setrole 🎀Soulmate🦋
 
  - *#2* => _Tag the target user_
-- .setrole @rifza|🎀Soulmate🦋
+- .setrole @nama|🎀Soulmate🦋
 
  - *#3* => _Use the target's phone number_
-- .setrole +62 831-xxxx-xxxx|🎀Soulmate🦋
+- .setrole +62 813-xxxx-xxxx|🎀Soulmate🦋
 
 \`ROLE LIST\`
 <role>
